@@ -11,4 +11,4 @@ In undertaking this project I've learned how to make CSS animations repeat and a
 
 to null the value on the piano key that was clicked, for some reason which I don't fully understand CSS animations can not repeat
 without changing something like this to reset it. I guess its because the animation class is already added to the class list and perhaps
-voiding the offsetWidth refreshs the element somehow, removing the animation class.
+voiding the offsetWidth refreshes the element somehow, removing the animation class.
