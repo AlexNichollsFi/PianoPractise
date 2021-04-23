@@ -1,7 +1,7 @@
 # PianoPractise
 A  small practise project involving HTML, CSS and JavaScript.
 
-use Q,E,R,T,Y,U for white keys and G,H,J,K,L for black keys.
+use Q,W,E,R,T,Y,U for white keys and G,H,J,K,L for black keys.
 
 I created this project entirely except for the audio files which I pulled off a royalty free site. The notes A, B, G# and A# are in the wrong octave.
 Rather than finding other samples I've decided to try and just take the C sample and adjust it's pitch accordingly for all the keys, which is the next task
